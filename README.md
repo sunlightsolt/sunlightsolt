@@ -31,6 +31,10 @@
 - [Google](https://www.google.com/search?q=sunlightsol+technologies&rlz=1C1GEWG_enIN999IN999&oq=sunlightsol+technologies&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGEEyBggDEEUYPDIGCAQQRRhBMgYIBRBFGEHSAQgzNDEzajBqMagCALACAA&sourceid=chrome&ie=UTF-8)
 - [Clutch](https://clutch.co/profile/sunlightsol-technologies)
 
+<h2>🤝 Let’s Collaborate</h2>
+We help companies scale faster by acting as their **extended development and support team**.  
+If you’re looking for a reliable technology or outsourcing partner, we’d love to connect.
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
